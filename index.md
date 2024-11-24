@@ -1,5 +1,5 @@
 {
-   "discordWebhook":"example.com/abc\nexample.com/def\nexample.com/ghi",
-   "lootItemDenylist":"jkl\nmno\npqr",
-   "lootItemAllowlist":"abc\ndef\nghi"
+   "discordWebhook":"example.com/jkl\nexample.com/mno\nexample.com/pqr",
+   "lootItemDenylist":"dragon platelegs",
+   "lootItemAllowlist":"scurries' spine\ndragon hunter wand"
 }
