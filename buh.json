@@ -1,4 +1,5 @@
 {
+   "discordWebhook":"example.com/jkl\nexample.com/mno\nexample.com/pqr",
    "leaguesWebhook":"example.com/ghi\nexample.com/jkl",
    "leaguesRelicUnlock":true,
    "leaguesTaskCompletion":true,
