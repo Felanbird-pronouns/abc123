@@ -1,4 +1,5 @@
 {
+   "leaguesWebhook":"example.com/abc\nexample.com/def",
    "leaguesRelicUnlock":false,
    "leaguesTaskCompletion":false,
    "leaguesSendImage":false,
