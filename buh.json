@@ -1,10 +1,10 @@
 {
-   "discordWebhook":"example.com/jkl\nexample.com/mno\nexample.com/pqr",
-   "leaguesWebhook":"example.com/ghi\nexample.com/jkl",
-   "leaguesRelicUnlock":true,
-   "leaguesTaskCompletion":true,
-   "leaguesSendImage":true,
-   "notifyLeagues":true,
-   "leaguesAreaUnlock":true,
-   "leaguesTaskMinTier":"EASY"
+   "discordWebhook":"example.com/abc\nexample.com/def\nexample.com/ghi",
+   "leaguesWebhook":"example.com/zyx\nexample.com/abc",
+   "leaguesRelicUnlock":false,
+   "leaguesTaskCompletion":false,
+   "leaguesSendImage":false,
+   "notifyLeagues":false,
+   "leaguesAreaUnlock":false,
+   "leaguesTaskMinTier":"HARD"
 }
