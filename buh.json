@@ -1,9 +1,9 @@
 {
    "leaguesWebhook":"example.com/abc\nexample.com/def",
-   "leaguesRelicUnlock":false,
-   "leaguesTaskCompletion":false,
-   "leaguesSendImage":false,
-   "notifyLeagues":false,
-   "leaguesAreaUnlock":false,
-   "leaguesTaskMinTier":"HARD"
+   "leaguesRelicUnlock":true,
+   "leaguesTaskCompletion":true,
+   "leaguesSendImage":true,
+   "notifyLeagues":true,
+   "leaguesAreaUnlock":true,
+   "leaguesTaskMinTier":"EASY"
 }
