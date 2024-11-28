@@ -1,7 +1,8 @@
 {
-   "discordWebhook":"example.com/example\nexample.com/dyanmic\nexample.com/octopus",
-   "lootItemDenylist":"*rune\ngrimy ranarr weed",
-   "lootItemAllowlist":"runite ore\nkbd heads\n",
+   "leaguesRelicUnlock":false,
+   "leaguesTaskCompletion":false,
    "leaguesSendImage":false,
-   "notifyLeagues":false
+   "notifyLeagues":false,
+   "leaguesAreaUnlock":false,
+   "leaguesTaskMinTier":"HARD"
 }
